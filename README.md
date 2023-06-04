@@ -1,2 +1,2 @@
 ### BasicWeb
-HTML + CSS + JAVASCRIPT
+HTML + CSS + JavaScript
